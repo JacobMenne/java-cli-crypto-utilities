@@ -1,0 +1,15 @@
+# Java & Maven
+*.class
+*.jar
+target/
+out/
+bin/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Runtime-generated AES files
+key.dat
+settings.txt
